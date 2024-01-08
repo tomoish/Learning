@@ -1,4 +1,4 @@
 # Learning
 
 ## CPU directory
-「CPUの創り方」
+「CPUの創りかた」

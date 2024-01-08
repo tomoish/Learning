@@ -1,4 +1,4 @@
-# CPUの創り方
+# CPUの創りかた
 
 TD4.circ: Logisim file
 
